@@ -39,7 +39,7 @@ export const projects = [
     title: "FoodVilla",
     description:
       "FoodVilla is a food ordering application developed taking Swiggy as reference for React learning purpose",
-    image: "foodVilla.jpg",
+    image: "foodvilla.jpg",
     // image: "/images/jp02.png",
     tags: ["HTML5", "CSS5", "Javascript", "React.js", "Redux", "bundler"],
     githubLink: "https://github.com/ashikapanda/FoodVilla",
